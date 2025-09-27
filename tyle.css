@@ -1,0 +1,37 @@
+:root {
+  --black: #000000;
+  --white: #ffffff;
+  --gray: #666666;
+  --highlight: #BFFF38;
+  --radius: 14px;
+}
+
+
+/* Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;700;900&family=Rajdhani:wght@400;500;600;700&family=Exo+2:wght@300;400;500;600;700;800&display=swap');
+
+/* Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Fonte padrão (texto corrido) */
+body {
+  font-family: 'Exo 2', sans-serif;
+  font-size: 16px;
+  color: var(--black);
+  background: #2f2f2f;
+  line-height: 1.6;
+}
+
+/* Títulos principais */
+.hero h1,
+.services h2,
+.portfolio-text h2,
+.about h2 {
+  font-family: 'Exo 2', sans-serif;
+  font-weight: 800;
+  letter-spacing: 1px;
+}
